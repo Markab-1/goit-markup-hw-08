@@ -1,0 +1,5 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: var(--main-bkg-color);
+  @include font(14px, 500, 24px, 0.03em);
+}

@@ -1,0 +1,23 @@
+:root {
+  --logo-color-blue: #2196f3; /* Цвет лого в шапке */
+  --logo-color-footer: #fff; /* Цвет лого в подвале */
+  --other-logo-color: #000;
+  --accent-color: #2196f3; /* Цвет активных элементов */
+  --button-color: #2196f3;
+  --color-white: #fff; /* Цвет текста на темном фоне, основной цвет фона */
+  --main-bkg-color: #fff; /* Основной цвет фона */
+  --alt-bkg-color: #e5e5e5; /* Цвет фона некоторых секций */
+  --sub-bkg-color: #2f303a; /* Цвет фона шапки и подвала */
+  --text-color-dark: #212121; /* Цвет текста  (серый потемнее) */
+  --text-color-light: #757575; /* Цвет текста  (серый посветлее) */
+  --button-bkg-color: #f5f4fa; /* Цвет фона кнопок фильтра в неактивном состоянии*/
+  --section-color: #f5f4fa;
+  --border-color: #ececec;
+  --social-link-color: #afb1b8;
+
+  --card-gap: 30px;
+  /* break points*/
+  --bp-mobile: 480px;
+  --bp-tablet: 768px;
+  --bp-full: 1200px;
+}
