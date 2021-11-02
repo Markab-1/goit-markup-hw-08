@@ -1,6 +1,7 @@
 .team__item {
-  margin-bottom: var(--card-gap);
-  width: 450px;
+  flex-basis: 100%;
+  margin-top: var(--card-gap);
+
   @media screen and (min-width: 768px) {
     flex-basis: calc(100% / 2 - 1 * var(--card-gap));
     margin-left: var(--card-gap);

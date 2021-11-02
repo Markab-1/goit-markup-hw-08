@@ -19,10 +19,10 @@
 .modal {
   position: absolute;
 
-  width: 450px;
+  width: calc(100vw - 10vw);
 
-  @media screen and (min-width: 1200px){
-  width: 528px;
+  @media screen and (min-width: 1200px) {
+    width: 528px;
   }
   min-height: 581px;
 
