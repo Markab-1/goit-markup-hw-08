@@ -1,4 +1,10 @@
-.occupation {
+.occupation-display {
+  @media screen and (max-width: 1199px) {
+    display: none;
+  }
+}
+
+/*.occupation {
   @media screen and (max-width: 1199px) {
     display: none;
   }
@@ -8,7 +14,7 @@
   @media screen and (max-width: 1199px) {
     display: none;
   }
-}
+}*/
 
 .occupation-item {
   position: relative;

@@ -111,9 +111,9 @@
 }
 
 .footer__socials {
-  margin-bottom: 60px;
+  /*margin-bottom: 60px;
   @media screen and (min-width: 768px) {
-  }
+  }*/
   @media screen and (min-width: 1200px) {
     margin-bottom: 0px;
     margin-right: 93px;
@@ -176,10 +176,11 @@
 }
 
 .footer__first-part {
+  margin-bottom: 60px;
   @media screen and (min-width: 768px) {
     display: flex;
     align-items: baseline;
-    margin-bottom: 60px;
+
     justify-content: space-evenly;
   }
   @media screen and (min-width: 1200px) {
